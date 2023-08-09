@@ -112,4 +112,4 @@ We should deploy this model against the real world data into production. While r
 
 ## Notebook Link:
 
-For a detailed view of the entire project, including data exploration, preprocessing, model training, evaluation, and hyperparameter tuning, please refer to the Jupyter Notebook available at [View Capstone_McGuire_HELOC_Final.ipynb)](https://github.com/vmcguire/capstone_final/Capstone_McGuire_HELOC_Final.ipynb)
+For a detailed view of the entire project, including data exploration, preprocessing, model training, evaluation, and hyperparameter tuning, please refer to the Jupyter Notebook available at [View Capstone_McGuire_HELOC_Final.ipynb)](https://github.com/vmcguire/capstone_final/blob/main/Capstone_McGuire_HELOC_Final.ipynb)
